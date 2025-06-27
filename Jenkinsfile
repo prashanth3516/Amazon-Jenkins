@@ -34,3 +34,4 @@ pipeline {
          body: "Unfortunately, build failed: ${env.BUILD_URL}"
   }
 }
+}
